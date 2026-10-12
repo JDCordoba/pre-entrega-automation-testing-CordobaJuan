@@ -1,0 +1,19 @@
+# entorno virtual
+venv/
+
+# archivos compilados de python
+__pycache__/
+*.pyc
+
+# cache de pytest
+.pytest_cache/
+
+# driver del navegador (cada uno descarga el suyo)
+geckodriver.exe
+
+# assets del reporte (se generan solos)
+reports/assets/
+
+# archivos del sistema
+.DS_Store
+Thumbs.db
